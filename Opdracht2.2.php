@@ -1,4 +1,10 @@
 <?php
+/**
+ * User: Boris van Ewijk
+ * Date: 17-2-2020
+ * Time: 14:00
+ * File: Opdracht2.2.php
+ */
 
 $text1 = "Hallo";
 $text2 = "een makkelijke taal";
