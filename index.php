@@ -29,6 +29,13 @@
                 </li>
             </ul>
         </li>
+        <li>Hoofdstuk 3
+            <ul>
+                <li>
+                    <a href="hoofdstuk3/Opdracht3.1.php">Opdracht 3.1</a>
+                </li>
+            </ul>
+        </li>
     </ul>
 </aside>
 </body>
